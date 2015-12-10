@@ -1,8 +1,8 @@
 ---
-layout : default
-title : titre de page
+layout: default
+title: titre de page
 ---
 
 
 
-<p> coucou <p>
+<p>coucou<p>
