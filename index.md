@@ -34,32 +34,32 @@ title: titre de page
     </div> 
     <div class="row">
         <div class="col-lg-12">
-            <h2 class="page-header">Mon Portfolio</h2>
+            <h2 class="page-header">Mes réalisations</h2>
         </div>
-            
+<!-- j'aurai du créer un dossier qui contient les images des projets mais je n'ai pas trouvé le bouton pour créer un nouveau dossier directement sur github sans passer par un terminal, mais l'intention y était -->            
         <div class="col-md-4 col-sm-6">
-            <img class="img-responsive img-portfolio img-hover" alt="visite" src="images/Folio_pizza.jpg"/>
-        </div>
-        <div class="col-md-4 col-sm-6">
-            <img class="img-responsive img-portfolio img-hover" alt="cv" src="images/Folio_cv.jpg"/>
+            <img class="img-responsive img-portfolio img-hover" alt="visite" src="images/visite.jpg"/>
         </div>
         <div class="col-md-4 col-sm-6">
-            <img class="img-responsive img-portfolio img-hover" alt="bomba" src="images/Folio_bomba.jpg"/>
+            <img class="img-responsive img-portfolio img-hover" alt="portrait" src="images/potrait.jpg"/>
         </div>
         <div class="col-md-4 col-sm-6">
-            <img class="img-responsive img-portfolio img-hover" alt="cocci" src="images/Folio_cocci.jpg"/>
+            <img class="img-responsive img-portfolio img-hover" alt="affiches" src="images/affiches.jpg"/>
         </div>
         <div class="col-md-4 col-sm-6">
-            <img class="img-responsive img-portfolio img-hover" alt="apertura" src="images/Folio_apertura.jpg"/>
+            <img class="img-responsive img-portfolio img-hover" alt="site " src="images/paulilles.jpg"/>
         </div>
         <div class="col-md-4 col-sm-6">
-            <img class="img-responsive img-portfolio img-hover" alt="pac" src="images/Folio_pac.jpg"/>
+            <img class="img-responsive img-portfolio img-hover" alt="bar" src="images/barcom.jpg"/>
         </div>
         <div class="col-md-4 col-sm-6">
-            <img class="img-responsive img-portfolio img-hover" alt="3d" src="images/Folio_3d1.jpg"/>
+            <img class="img-responsive img-portfolio img-hover" alt="lancre" src="images/lancre.jpg"/>
         </div>
         <div class="col-md-4 col-sm-6">
-            <img class="img-responsive img-portfolio img-hover" alt="3d2" src="images/Folio_3d2.jpg"/>
+            <img class="img-responsive img-portfolio img-hover" alt="illu" src="images/illu.jpg"/>
+        </div>
+        <div class="col-md-4 col-sm-6">
+            <img class="img-responsive img-portfolio img-hover" alt="projet" src="images/projet.jpg"/>
         </div>
            
     </div>
